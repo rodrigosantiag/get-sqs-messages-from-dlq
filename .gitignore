@@ -284,3 +284,4 @@ pyrightconfig.json
 
 *.json
 /result_files/*
+/.python-version
